@@ -1,0 +1,28 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+.sms .inbound {
+    background-color: #c5cae9;
+}
+.sms .outbound-api {
+    background-color: #fce4ec;
+}
+
+.pagination-page {
+    margin: 10px 0px;
+}
+
+#btn-apply-date {
+    padding: 4px 20px;
+    margin-left: 6px;
+    cursor: pointer;
+}
+
+.sms {
+    border-bottom: 1px solid #CCC;
+}
+
+.sms.no-pickupdate {
+    color: darkgrey;
+}
